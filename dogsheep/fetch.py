@@ -68,14 +68,16 @@ def query_database(db_file):
         cursor = conn.cursor()
 
         # Perform the query
-        query = "SELECT * FROM apple_photos WHERE datetime(date) >= '2023-07-18' AND datetime(date) < '2023-07-19';"
+        query = "SELECT * FROM apple_photos WHERE datetime(date) >= '2023-07-26';"
         cursor.execute(query)
 
         features = []
 
         rows = cursor.fetchall()
         for row in rows:
-            features.append(create_feature(RowData(*row)))
+            f = create_feature(RowData(*row))
+            if f is not None:
+                features.append(f)
 
         feature_collection = {
             "type": "FeatureCollection",
@@ -94,19 +96,26 @@ def query_database(db_file):
             conn.close()
 
 def create_feature(row: RowData): 
+    keywords = ast.literal_eval(row.keywords)
+
+    # Only concerned with photos which are tagged for bike parking. These are
+    # any with a type: prefix on a keyword
+    x = True
+    for kw in keywords:
+        if kw.startswith("type:"):
+            x = False
+    if x:
+        return None
+
     properties = {
         "felt-clipSource": {},
         "felt-color": "#2674BA",
         "felt-hasLongDescription": False,
-        "felt-id": row[1],  # Assuming the "felt-id" is in column 1
-        "felt-locked": False,
-        "felt-ordering": row[16],  # Assuming the "felt-ordering" is in column 16
         "felt-symbol": "dot",
         "felt-type": "Place",
         "felt-widthScale": 1
     }
 
-    keywords = ast.literal_eval(row.keywords)
     for kw in keywords:
         if kw.startswith("size"):
             properties["Size"] = kw.split(":")[1]
