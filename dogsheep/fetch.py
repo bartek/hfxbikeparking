@@ -68,7 +68,7 @@ def query_database(db_file):
         cursor = conn.cursor()
 
         # Perform the query
-        query = "SELECT * FROM apple_photos WHERE datetime(date) >= '2023-07-26';"
+        query = """SELECT * FROM apple_photos WHERE albums = '["Bike Posts Southend"]'"""
         cursor.execute(query)
 
         features = []
