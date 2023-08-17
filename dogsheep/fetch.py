@@ -68,7 +68,7 @@ def query_database(db_file):
         cursor = conn.cursor()
 
         # Perform the query
-        query = """SELECT * FROM apple_photos WHERE albums = '["Bike Posts Aug 14 2023"]'"""
+        query = """SELECT * FROM apple_photos WHERE albums = '["bike posts southend aug 16"]'"""
         cursor.execute(query)
 
         features = []
