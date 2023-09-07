@@ -1,6 +1,7 @@
 from collections import namedtuple
 import ast
 import json
+import os
 import sqlite3
 
 # This script queries the Apple Photos database and returns a GeoJSON blob
@@ -10,6 +11,10 @@ import sqlite3
 # dogsheep-photos apple-photos photos.db
 # Then, adjust the query in line within this script (this can/should be improved in the future)
 # When run, a GeoJSON feature collection will be returned. Pipe this to a file and upload.
+
+# The album name (which is what will house the photos we want to process) is
+# fetched from the environment
+album_name = os.environ.get("ALBUM")
 
 RowData = namedtuple('RowData', [
     'sha256',
@@ -68,7 +73,7 @@ def query_database(db_file):
         cursor = conn.cursor()
 
         # Perform the query
-        query = """SELECT * FROM apple_photos WHERE albums = '["bike posts southend aug 16"]'"""
+        query = """SELECT * FROM apple_photos WHERE albums = '["{}"]'""".format(album_name)
         cursor.execute(query)
 
         features = []
