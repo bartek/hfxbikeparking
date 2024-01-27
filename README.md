@@ -1,6 +1,6 @@
 # hfxbikeparking
 
-Work in progress render on [Felt](https://felt.com/map/Bike-Parking-Rendered-9AD3nHpGSQjuwd3w0ppqdxC?loc=44.64502,-63.58804,14.56z&share=1)
+Render on [Felt](https://felt.com/map/Halifax-Bike-Parking-psMyuFinQYmXe2qKFLv6zA?loc=44.65261,-63.60755,14.76z)
 
 Spawned from a Twitter thread, this is a work-in-progress map highlighting
 publicly available bike parking in and around the Halifax peninsula.
