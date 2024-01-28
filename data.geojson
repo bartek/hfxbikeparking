@@ -1,9 +1,5 @@
 {
   "type": "FeatureCollection",
-  "metadata": {
-    "felt:id": "a20e0139-3067-4f73-a50b-20150d284b3a",
-    "felt:version": 1
-  },
   "features": [
     {
       "geometry": {
@@ -11721,6 +11717,26 @@
         "felt-widthScale": 1,
         "Type": "Wheel Slot Corral",
         "Size": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569845,
+          44.66450833333333
+        ]
+      },
+      "properties": {
+        "felt-clipSource": {},
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Type": "Ring Corral",
+        "Size": "5"
       }
     }
   ]

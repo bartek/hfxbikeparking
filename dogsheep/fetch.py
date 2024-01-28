@@ -113,7 +113,6 @@ def create_feature(row: RowData):
         return None
 
     properties = {
-        "felt-clipSource": {},
         "felt-color": "#2674BA",
         "felt-hasLongDescription": False,
         "felt-symbol": "dot",
