@@ -11738,6 +11738,173 @@
         "Type": "Ring Corral",
         "Size": "5"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57755,
+          44.64968833333333
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57749166666667,
+          44.64955833333333
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57783666666667,
+          44.65032166666667
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.572145,
+          44.64669166666667
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.666621666666664,
+          44.65885333333333
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Size": "8",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577911666666665,
+          44.650353333333335
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Size": "15",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57781666666666,
+          44.65014166666667
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57518,
+          44.64929166666667
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57271166666666,
+          44.64554666666667
+        ]
+      },
+      "properties": {
+        "felt-color": "#2674BA",
+        "felt-hasLongDescription": false,
+        "felt-symbol": "dot",
+        "felt-type": "Place",
+        "felt-widthScale": 1,
+        "Size": "3",
+        "Type": "Corral"
+      }
     }
   ]
 }
