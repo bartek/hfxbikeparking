@@ -112,13 +112,7 @@ def create_feature(row: RowData):
     if x:
         return None
 
-    properties = {
-        "felt-color": "#2674BA",
-        "felt-hasLongDescription": False,
-        "felt-symbol": "dot",
-        "felt-type": "Place",
-        "felt-widthScale": 1
-    }
+    properties = {}
 
     for kw in keywords:
         if kw.startswith("size"):
