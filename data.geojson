@@ -48,48 +48,6 @@
     {
       "geometry": {
         "coordinates": [
-          -63.633633,
-          44.654371
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "f1310f91-44a1-4255-af02-7f3fdc7e40f3",
-        "felt:locked": false,
-        "felt:ordering": 0,
-        "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.633633,
-          44.654371
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "0ec4a236-c2bc-4d5e-92f8-6b6d089a8bae",
-        "felt:locked": false,
-        "felt:ordering": 0,
-        "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -63.571208,
           44.644111
         ],
@@ -148,27 +106,6 @@
         "felt:locked": false,
         "felt:ordering": 0,
         "felt:parentId": "b9714da5-594b-48ce-aa28-50ca391c1e7e",
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.633633,
-          44.654371
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "4bea486c-aca1-4803-a685-946ad4c7c7a3",
-        "felt:locked": false,
-        "felt:ordering": 0,
-        "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
         "felt:symbol": "dot",
         "felt:type": "Place",
         "felt:widthScale": 1
