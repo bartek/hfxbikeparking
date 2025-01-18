@@ -112,7 +112,7 @@ def create_feature(row: RowData):
     if x:
         return None
 
-    properties = {}
+    properties = { "description": row.description if not None else "" }
 
     for kw in keywords:
         if kw.startswith("size"):
@@ -120,6 +120,7 @@ def create_feature(row: RowData):
         if kw.startswith("type"):
             p = kw.split(":")[1]
             properties["Type"] = p.title()
+
 
     # Map the various keywords to the appropriate properties.
     return {
