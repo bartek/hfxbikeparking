@@ -112,7 +112,14 @@ def create_feature(row: RowData):
     if x:
         return None
 
-    properties = { "description": row.description if not None else "" }
+    # Files are assumed to be exported to jpeg for the purposes of delivery and
+    # otherwise the original name is retained.
+    filename = row.original_filename.split(".")[0] + ".jpeg"
+
+    properties = { 
+        "description": row.description if not None else "",
+        "filename": filename,
+    }
 
     for kw in keywords:
         if kw.startswith("size"):
