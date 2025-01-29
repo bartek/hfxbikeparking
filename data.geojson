@@ -11577,13 +11577,214 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58426333333333,
-          44.63935
+          -63.56737833333333,
+          44.66597
         ]
       },
       "properties": {
         "description": null,
-        "Size": "8",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.67402166666667,
+          44.64637
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567303333333335,
+          44.64267
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57143333333333,
+          44.62687833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "7",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58322166666667,
+          44.67396166666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.590995,
+          44.63641166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57513,
+          44.64355833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.60044166666667,
+          44.655053333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575325,
+          44.64339666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58040333333334,
+          44.64393333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57987,
+          44.627
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.615096666666666,
+          44.650178333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "9",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57644666666667,
+          44.642145
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56829666666667,
+          44.64109666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5863,
+          44.640725
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
         "Type": "Wheel Slot Corral"
       }
     },
@@ -11592,8 +11793,37 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58134166666667,
-          44.639691666666664
+          -63.64465833333333,
+          44.671955
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58053666666667,
+          44.643953333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.591991666666665,
+          44.63874166666667
         ]
       },
       "properties": {
@@ -11607,8 +11837,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.56820333333334,
-          44.666736666666665
+          -63.57887,
+          44.64113666666667
         ]
       },
       "properties": {
@@ -11621,8 +11851,67 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.573483333333336,
-          44.649746666666665
+          -63.536186,
+          44.679574
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59066333333333,
+          44.63657
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56820333333334,
+          44.665436666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.591755,
+          44.65570833333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576655,
+          44.64263
         ]
       },
       "properties": {
@@ -11636,8 +11925,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.56775,
-          44.666145
+          -63.56720833333333,
+          44.665805
         ]
       },
       "properties": {
@@ -11650,13 +11939,59 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.578255,
-          44.641288333333335
+          -63.569855,
+          44.646361666666664
         ]
       },
       "properties": {
         "description": null,
-        "Type": "Uring"
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584828333333334,
+          44.63859166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57518,
+          44.64929166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.67617833333333,
+          44.650445
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wave Corral"
       }
     },
     {
@@ -11679,8 +12014,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.573445,
-          44.64850333333333
+          -63.600455,
+          44.655078333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57002166666667,
+          44.640175
         ]
       },
       "properties": {
@@ -11708,8 +12057,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.572741666666666,
-          44.64741166666667
+          -63.58022,
+          44.64398
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577778333333335,
+          44.642855
         ]
       },
       "properties": {
@@ -11722,37 +12086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.6027396,
-          44.6538618
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574313333333336,
-          44.644495
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58055,
-          44.632396666666665
+          -63.575245,
+          44.64341666666667
         ]
       },
       "properties": {
@@ -11780,13 +12115,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57792833333333,
-          44.642853333333335
+          -63.567096666666664,
+          44.6666
         ]
       },
       "properties": {
         "description": null,
-        "Size": "3",
         "Type": "Ring"
       }
     },
@@ -11795,38 +12129,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.569325,
-          44.665996666666665
-        ]
-      },
-      "properties": {
-        "description": "Inside parking garage",
-        "Size": "3",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.577441666666665,
-          44.63247833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58331333333334,
-          44.67387
+          -63.59103833333333,
+          44.639021666666665
         ]
       },
       "properties": {
@@ -11840,752 +12144,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.645805,
-          44.670721666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.62868666666667,
-          44.640255
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57460833333333,
-          44.64664666666667
+          -63.57357833333333,
+          44.64946666666667
         ]
       },
       "properties": {
         "description": null,
         "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.60044166666667,
-          44.655053333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.572716666666665,
-          44.64541166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57463,
-          44.649625
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57055,
-          44.64782833333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57669166666667,
-          44.642545
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57548833333333,
-          44.643391666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58487,
-          44.640888333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57781666666666,
-          44.65014166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.566588333333335,
-          44.636466666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.590466666666664,
-          44.63716333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59095,
-          44.63873666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "9",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58622166666667,
-          44.637855
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.582786666666664,
-          44.63995333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57640833333333,
-          44.6421
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57420333333334,
-          44.64465833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59507833333333,
-          44.637011666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57834666666667,
-          44.64177
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.684421666666665,
-          44.647445
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576908333333336,
-          44.64178
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574191666666664,
-          44.645855
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56960333333333,
-          44.64158666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57100333333333,
-          44.64792166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57607,
-          44.64328
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.67617833333333,
-          44.650445
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59066333333333,
-          44.63657
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.558575,
-          44.68662833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57496666666667,
-          44.64367
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.66410833333333,
-          44.64764666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.589133333333336,
-          44.639716666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56724166666667,
-          44.64265833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58041166666667,
-          44.643813333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57465333333333,
-          44.64708666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56829666666667,
-          44.64109666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.560966666666666,
-          44.67477
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "12",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57942,
-          44.64174166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569855,
-          44.646361666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569455,
-          44.63710833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56984666666666,
-          44.643953333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Hanging Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.600455,
-          44.655078333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57503666666667,
-          44.64376166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575325,
-          44.64339666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5764,
-          44.642088333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.674495,
-          44.653245
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "5",
-        "Type": "Ring Coral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575445,
-          44.643425
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.592636666666664,
-          44.651086666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.6027396,
-          44.6538618
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57528,
-          44.64341666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.584266666666664,
-          44.6394
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58057,
-          44.643955
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
       }
     },
     {
@@ -12607,199 +12172,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.600728333333336,
-          44.655186666666665
+          -63.6027396,
+          44.6538618
         ]
       },
       "properties": {
         "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57513,
-          44.64355833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578275,
-          44.64169666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59370833333333,
-          44.637071666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "18",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578113333333334,
-          44.64273333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574295,
-          44.644553333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575691666666664,
-          44.642538333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57987166666667,
-          44.642383333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575066666666665,
-          44.64383333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58054666666666,
-          44.63241166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.6287,
-          44.63973333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.580486666666665,
-          44.64393666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.566246666666665,
-          44.639805
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
+        "Size": "4",
         "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59431333333333,
-          44.636495
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "12",
-        "Type": "Wave Corral"
       }
     },
     {
@@ -12821,13 +12201,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57693833333333,
-          44.642891666666664
+          -63.62412833333333,
+          44.66352833333333
         ]
       },
       "properties": {
         "description": null,
-        "Type": "Ring"
+        "Size": "2",
+        "Type": "Wave Corral"
       }
     },
     {
@@ -12835,37 +12216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.67402166666667,
-          44.64637
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57073666666667,
-          44.647013333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57783666666667,
-          44.65032166666667
+          -63.60919166666667,
+          44.653725
         ]
       },
       "properties": {
@@ -12892,8 +12244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57518,
-          44.64929166666667
+          -63.590963333333335,
+          44.63895333333333
         ]
       },
       "properties": {
@@ -12907,52 +12259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58322166666667,
-          44.67396166666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57843833333333,
-          44.63023333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "10",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59063333333334,
-          44.63650833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57286333333333,
-          44.647545
+          -63.57132166666667,
+          44.644345
         ]
       },
       "properties": {
@@ -12965,7 +12273,125 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.575245,
+          -63.576795,
+          44.642875
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57387166666667,
+          44.66816333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58052,
+          44.63228333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58240833333333,
+          44.639745
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.64367166666667,
+          44.67102
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57612,
+          44.64326166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58487,
+          44.640888333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56968,
+          44.646721666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57528,
           44.64341666666667
         ]
       },
@@ -12979,95 +12405,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5685,
-          44.643921666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ornamental"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574558333333336,
-          44.64352
-        ]
-      },
-      "properties": {
-        "description": "10 Ring Corr\n",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567346666666666,
-          44.66635
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59122166666667,
-          44.63887833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575795,
-          44.66816333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56733333333333,
-          44.66636666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576175,
-          44.64357
+          -63.583263333333335,
+          44.673928333333336
         ]
       },
       "properties": {
@@ -13080,66 +12419,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.577545,
-          44.64290333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59048333333333,
-          44.63722
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.591755,
-          44.65570833333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.568128333333334,
-          44.666788333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58273,
-          44.640105
+          -63.582746666666665,
+          44.640071666666664
         ]
       },
       "properties": {
@@ -13153,8 +12434,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.568375,
-          44.665245
+          -63.672171666666664,
+          44.64684666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575163333333336,
+          44.643386666666665
         ]
       },
       "properties": {
@@ -13167,14 +12463,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.584828333333334,
-          44.63859166666667
+          -63.581325,
+          44.639671666666665
         ]
       },
       "properties": {
         "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
+        "Size": "6",
+        "Type": "Corral"
       }
     },
     {
@@ -13182,8 +12478,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.571261666666665,
-          44.644275
+          -63.57657,
+          44.641895
         ]
       },
       "properties": {
@@ -13196,8 +12492,124 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57465833333333,
-          44.647
+          -63.574295,
+          44.644553333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5381413,
+          44.6790976
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59518333333333,
+          44.638155
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58055,
+          44.632396666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576836666666665,
+          44.642871666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59370833333333,
+          44.637071666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "18",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5746,
+          44.646503333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.66305333333333,
+          44.647461666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "10",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5764,
+          44.642088333333334
         ]
       },
       "properties": {
@@ -13224,155 +12636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58052,
-          44.63228333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574495,
-          44.63512
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.61123666666667,
-          44.654113333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.568455,
-          44.641025
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57508,
-          44.64326166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "10",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.536186,
-          44.679574
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.580875,
-          44.63107
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57620333333333,
-          44.643395
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576386666666664,
-          44.637766666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569069999999996,
-          44.66423
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Ornamental"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56941166666667,
-          44.646125
+          -63.58778,
+          44.637905
         ]
       },
       "properties": {
@@ -13401,20 +12666,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.56720833333333,
-          44.665805
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -63.67323,
           44.650945
         ]
@@ -13430,1504 +12681,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.578116666666666,
-          44.64149166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567591666666665,
-          44.66711333333333
+          -63.57607,
+          44.64328
         ]
       },
       "properties": {
         "description": null,
         "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569896666666665,
-          44.641895
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57337166666667,
-          44.645175
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58279666666667,
-          44.63998
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.577911666666665,
-          44.650353333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "15",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575175,
-          44.64338
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57368,
-          44.62545333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "12",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58316333333333,
-          44.67400833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58053666666667,
-          44.643953333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.64367166666667,
-          44.67102
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.67136166666667,
-          44.649005
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "5",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56968,
-          44.646721666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59044166666666,
-          44.637096666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57590833333333,
-          44.643545
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.581325,
-          44.639671666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57271166666666,
-          44.64554666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57127833333333,
-          44.644305
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57564166666667,
-          44.64265
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.581646666666664,
-          44.63084666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "10",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58947,
-          44.637195
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "16",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.676055,
-          44.65327
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57113666666667,
-          44.644061666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57910833333333,
-          44.641196666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5381413,
-          44.6790976
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567771666666665,
-          44.66616166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575163333333336,
-          44.643386666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.580375,
-          44.643855
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.587896666666666,
-          44.637991666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58051666666667,
-          44.632345
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57165333333333,
-          44.64474166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578471666666665,
-          44.63258666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.566605,
-          44.64178833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5746,
-          44.646503333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57665,
-          44.64307
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.572145,
-          44.64669166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.566021666666664,
-          44.66638
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58730833333333,
-          44.63782166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "7",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57548,
-          44.643411666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.662933333333335,
-          44.64733833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567305,
-          44.66592
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57400833333333,
-          44.645653333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576858333333334,
-          44.641828333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.583263333333335,
-          44.673928333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57143333333333,
-          44.62687833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "7",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.590995,
-          44.63641166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56897,
-          44.64035333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "7",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576836666666665,
-          44.642871666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59030333333333,
-          44.63943
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "5",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.62868,
-          44.63983
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57987,
-          44.627
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.583125,
-          44.67403
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58477833333333,
-          44.63767166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576655,
-          44.64263
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59518333333333,
-          44.638155
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.62412833333333,
-          44.66352833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58907166666667,
-          44.63972166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.579096666666665,
-          44.64121166666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576946666666664,
-          44.64302
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.579361666666664,
-          44.641778333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57274666666667,
-          44.6475
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.571178333333336,
-          44.64408666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58383,
-          44.641403333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.577778333333335,
-          44.642855
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56473833333333,
-          44.66997833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.600955,
-          44.65532833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58167,
-          44.6419
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575625,
-          44.64278
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58085333333333,
-          44.644313333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57387166666667,
-          44.66816333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57378333333333,
-          44.645291666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5755,
-          44.64338333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576795,
-          44.642875
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "5",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57510833333333,
-          44.64386666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.590963333333335,
-          44.63895333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57267,
-          44.64544166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58778,
-          44.637905
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569788333333335,
-          44.641821666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56820333333334,
-          44.665436666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57743,
-          44.63252
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57275333333333,
-          44.645405
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57423333333333,
-          44.64500833333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.589355,
-          44.637295
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.569808333333334,
-          44.64177166666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.580555,
-          44.63247
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "18",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59103833333333,
-          44.639021666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57777,
-          44.6428
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56737833333333,
-          44.66597
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59215833333333,
-          44.640995
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57002166666667,
-          44.640175
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58377,
-          44.64138833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58308,
-          44.641525
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575716666666665,
-          44.64262
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58777,
-          44.63793666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57120833333333,
-          44.64411166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.672171666666664,
-          44.64684666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.584805,
-          44.641095
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57882166666667,
-          44.63302
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "12",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567303333333335,
-          44.64267
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57749166666667,
-          44.64955833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578975,
-          44.64105333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57657,
-          44.641895
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567238333333336,
-          44.666488333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59045,
-          44.63713833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
       }
     },
     {
@@ -14950,535 +12710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.66305333333333,
-          44.647461666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "10",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.582405,
-          44.639355
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "16",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.584336666666665,
-          44.63764166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58938833333333,
-          44.637208333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.590271666666666,
-          44.639245
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.59178,
-          44.65571666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.577295,
-          44.643025
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.56816333333333,
-          44.666783333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.644775,
-          44.672275
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58477833333333,
-          44.638603333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.619411666666664,
-          44.67375333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57612,
-          44.64326166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57186166666666,
-          44.64977
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "16",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57606333333333,
-          44.64327
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58022,
-          44.64398
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58040333333334,
-          44.64393333333334
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57826166666667,
-          44.671275
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58036166666667,
-          44.64391333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57822,
-          44.632236666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.567771666666665,
-          44.64362166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578178333333334,
-          44.64277166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576205,
-          44.64203833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Ring Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.584705,
-          44.64091166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5699,
-          44.64470333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Ornamental"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58895,
-          44.656795
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "4",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57425333333333,
-          44.64463
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.577055,
-          44.64174166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57391333333333,
-          44.645471666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58311333333333,
-          44.64152833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57159166666667,
-          44.645021666666665
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.5863,
-          44.640725
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57515,
-          44.643908333333336
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.55811666666666,
-          44.68645
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.64465833333333,
-          44.671955
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57665333333333,
-          44.64261666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575671666666665,
-          44.642496666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.578136666666666,
-          44.64275333333333
+          -63.57337166666667,
+          44.645175
         ]
       },
       "properties": {
@@ -15506,8 +12739,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58485833333334,
-          44.639246666666665
+          -63.57843833333333,
+          44.63023333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "10",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.590466666666664,
+          44.63716333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57508,
+          44.64326166666667
         ]
       },
       "properties": {
@@ -15521,14 +12784,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58495,
-          44.64523333333333
+          -63.574313333333336,
+          44.644495
         ]
       },
       "properties": {
         "description": null,
-        "Size": "5",
-        "Type": "Wave Corral"
+        "Type": "Ring"
       }
     },
     {
@@ -15536,8 +12798,52 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57613333333333,
-          44.643425
+          -63.58273,
+          44.640105
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.579096666666665,
+          44.64121166666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56473833333333,
+          44.66997833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57496666666667,
+          44.64367
         ]
       },
       "properties": {
@@ -15550,14 +12856,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.567321666666665,
-          44.64264166666667
+          -63.576175,
+          44.64357
         ]
       },
       "properties": {
         "description": null,
-        "Size": "2",
-        "Type": "Corral"
+        "Type": "Uring"
       }
     },
     {
@@ -15565,108 +12870,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57812166666667,
-          44.63207
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "5",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.571255,
-          44.64423333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57132166666667,
-          44.644345
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57647,
-          44.642228333333335
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574196666666666,
-          44.646
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57755,
-          44.64968833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58240833333333,
-          44.639745
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57265833333334,
-          44.646655
+          -63.571236666666664,
+          44.64413
         ]
       },
       "properties": {
@@ -15694,8 +12899,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.575653333333335,
-          44.643008333333334
+          -63.64741333333333,
+          44.675196666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57275333333333,
+          44.645405
         ]
       },
       "properties": {
@@ -15708,8 +12928,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.567096666666664,
-          44.6666
+          -63.57777,
+          44.6428
         ]
       },
       "properties": {
@@ -15722,8 +12942,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57887,
-          44.64113666666667
+          -63.57400833333333,
+          44.645653333333335
         ]
       },
       "properties": {
@@ -15736,14 +12956,186 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.584295,
-          44.639405
+          -63.574975,
+          44.64387166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574495,
+          44.63512
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58730833333333,
+          44.63782166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "7",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.580486666666665,
+          44.64393666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57834666666667,
+          44.64177
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59044166666666,
+          44.637096666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6287,
+          44.63973333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59507833333333,
+          44.637011666666666
         ]
       },
       "properties": {
         "description": null,
         "Size": "8",
-        "Type": "Wheel Slot Corral"
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57606333333333,
+          44.64327
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57113666666667,
+          44.644061666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56816333333333,
+          44.666783333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59431333333333,
+          44.636495
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "12",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.580375,
+          44.643855
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
       }
     },
     {
@@ -15766,165 +13158,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.59472,
-          44.66471333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "3",
-        "Type": "Wave Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57420833333333,
-          44.645745
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.58278333333333,
-          44.64002
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.582746666666665,
-          44.640071666666664
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Triangle Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57814666666667,
-          44.641511666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.571236666666664,
-          44.64413
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57357833333333,
-          44.64946666666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57306666666667,
-          44.64935
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.584336666666665,
-          44.6394
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Wheel Slot Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.57197,
-          44.65032
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.574975,
-          44.64387166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -63.57521166666667,
           44.64923833333334
         ]
@@ -15939,23 +13172,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.591991666666665,
-          44.63874166666667
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "6",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.575671666666665,
-          44.643045
+          -63.568455,
+          44.641025
         ]
       },
       "properties": {
@@ -15968,8 +13186,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57837833333333,
-          44.641241666666666
+          -63.578255,
+          44.641288333333335
         ]
       },
       "properties": {
@@ -15982,8 +13200,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.58556166666666,
-          44.650038333333335
+          -63.57548,
+          44.643411666666665
         ]
       },
       "properties": {
@@ -15996,8 +13214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.59065,
-          44.636536666666665
+          -63.57822,
+          44.632236666666664
         ]
       },
       "properties": {
@@ -16011,8 +13229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57644666666667,
-          44.642145
+          -63.57640833333333,
+          44.6421
         ]
       },
       "properties": {
@@ -16025,52 +13243,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.666621666666664,
-          44.65885333333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "8",
-        "Type": "Corral"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.576305,
-          44.64313833333333
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Size": "2",
-        "Type": "Ring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.633136666666665,
-          44.657986666666666
-        ]
-      },
-      "properties": {
-        "description": null,
-        "Type": "Uring"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.60919166666667,
-          44.653725
+          -63.578113333333334,
+          44.64273333333333
         ]
       },
       "properties": {
@@ -16098,13 +13272,881 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.5868,
-          44.64071333333333
+          -63.58057,
+          44.643955
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574196666666666,
+          44.646
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.674495,
+          44.653245
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Ring Coral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57665333333333,
+          44.64261666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584336666666665,
+          44.6394
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.572716666666665,
+          44.64541166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57693833333333,
+          44.642891666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57564166666667,
+          44.64265
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.566246666666665,
+          44.639805
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.582405,
+          44.639355
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "16",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57548833333333,
+          44.643391666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57368,
+          44.62545333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "12",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58426333333333,
+          44.63935
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58907166666667,
+          44.63972166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57425333333333,
+          44.64463
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576946666666664,
+          44.64302
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.560966666666666,
+          44.67477
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "12",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575653333333335,
+          44.643008333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57465833333333,
+          44.647
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57749166666667,
+          44.64955833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5685,
+          44.643921666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ornamental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.566588333333335,
+          44.636466666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.573483333333336,
+          44.649746666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.55811666666666,
+          44.68645
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567771666666665,
+          44.64362166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58383,
+          44.641403333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575625,
+          44.64278
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56820333333334,
+          44.666736666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57460833333333,
+          44.64664666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569069999999996,
+          44.66423
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Ornamental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.571255,
+          44.64423333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.558575,
+          44.68662833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58054666666666,
+          44.63241166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577796666666664,
+          44.642925
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575716666666665,
+          44.64262
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57378333333333,
+          44.645291666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575445,
+          44.643425
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578136666666666,
+          44.64275333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.572741666666666,
+          44.64741166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.573445,
+          44.64850333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576205,
+          44.64203833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.568128333333334,
+          44.666788333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57073666666667,
+          44.647013333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58308,
+          44.641525
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56897,
+          44.64035333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "7",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57826166666667,
+          44.671275
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58622166666667,
+          44.637855
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.580555,
+          44.63247
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "18",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57755,
+          44.64968833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578178333333334,
+          44.64277166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567591666666665,
+          44.66711333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56724166666667,
+          44.64265833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58895,
+          44.656795
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57186166666666,
+          44.64977
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "16",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57100333333333,
+          44.64792166666667
         ]
       },
       "properties": {
         "description": null,
         "Size": "3",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575691666666664,
+          44.642538333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57743,
+          44.63252
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578116666666666,
+          44.64149166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576386666666664,
+          44.637766666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.589133333333336,
+          44.639716666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58085333333333,
+          44.644313333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
         "Type": "Corral"
       }
     },
@@ -16127,13 +14169,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.57498833333333,
-          44.64371166666667
+          -63.62868666666667,
+          44.640255
         ]
       },
       "properties": {
         "description": null,
-        "Type": "Uring"
+        "Size": "3",
+        "Type": "Corral"
       }
     },
     {
@@ -16141,8 +14184,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.577796666666664,
-          44.642925
+          -63.584805,
+          44.641095
         ]
       },
       "properties": {
@@ -16155,13 +14198,390 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -63.588811666666665,
-          44.65678333333334
+          -63.575795,
+          44.66816333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.571261666666665,
+          44.644275
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5868,
+          44.64071333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567305,
+          44.66592
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59030333333333,
+          44.63943
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.676055,
+          44.65327
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57197,
+          44.65032
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.662933333333335,
+          44.64733833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57781666666666,
+          44.65014166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577441666666665,
+          44.63247833333333
         ]
       },
       "properties": {
         "description": null,
         "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578275,
+          44.64169666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57510833333333,
+          44.64386666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57271166666666,
+          44.64554666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.590271666666666,
+          44.639245
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569325,
+          44.665996666666665
+        ]
+      },
+      "properties": {
+        "description": "Inside parking garage",
+        "Size": "3",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.6027396,
+          44.6538618
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57267,
+          44.64544166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57265833333334,
+          44.646655
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57792833333333,
+          44.642853333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58947,
+          44.637195
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "16",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567771666666665,
+          44.66616166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59063333333334,
+          44.63650833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.67136166666667,
+          44.649005
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.592636666666664,
+          44.651086666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.666621666666664,
+          44.65885333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569808333333334,
+          44.64177166666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575671666666665,
+          44.642496666666666
+        ]
+      },
+      "properties": {
+        "description": null,
         "Type": "Ring"
       }
     },
@@ -16185,8 +14605,1633 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -63.57055,
+          44.64782833333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57286333333333,
+          44.647545
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57783666666667,
+          44.65032166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57613333333333,
+          44.643425
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57590833333333,
+          44.643545
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58477833333333,
+          44.638603333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.587896666666666,
+          44.637991666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58777,
+          44.63793666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57942,
+          44.64174166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57165333333333,
+          44.64474166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58134166666667,
+          44.639691666666664
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577295,
+          44.643025
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574558333333336,
+          44.64352
+        ]
+      },
+      "properties": {
+        "description": "10 Ring Corr\n",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58311333333333,
+          44.64152833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59215833333333,
+          44.640995
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.615028333333335,
+          44.650263333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "9",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57987166666667,
+          44.642383333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58036166666667,
+          44.64391333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56984666666666,
+          44.643953333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Hanging Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57620333333333,
+          44.643395
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58938833333333,
+          44.637208333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57120833333333,
+          44.64411166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577911666666665,
+          44.650353333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "15",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59122166666667,
+          44.63887833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569788333333335,
+          44.641821666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57465333333333,
+          44.64708666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.566605,
+          44.64178833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57910833333333,
+          44.641196666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.589355,
+          44.637295
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57665,
+          44.64307
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578471666666665,
+          44.63258666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577055,
+          44.64174166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59065,
+          44.636536666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.619411666666664,
+          44.67375333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569455,
+          44.63710833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57503666666667,
+          44.64376166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.572145,
+          44.64669166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58556166666666,
+          44.650038333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.583125,
+          44.67403
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57647,
+          44.642228333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5699,
+          44.64470333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Ornamental"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.566021666666664,
+          44.66638
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59048333333333,
+          44.63722
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58495,
+          44.64523333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.588811666666665,
+          44.65678333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57420333333334,
+          44.64465833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.582786666666664,
+          44.63995333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58377,
+          44.64138833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576908333333336,
+          44.64178
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.600955,
+          44.65532833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57127833333333,
+          44.644305
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57274666666667,
+          44.6475
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.645805,
+          44.670721666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58331333333334,
+          44.67387
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584266666666664,
+          44.6394
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576305,
+          44.64313833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57420833333333,
+          44.645745
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.633136666666665,
+          44.657986666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567346666666666,
+          44.66635
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59095,
+          44.63873666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "9",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.578975,
+          44.64105333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575671666666665,
+          44.643045
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.66410833333333,
+          44.64764666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575175,
+          44.64338
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56960333333333,
+          44.64158666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.569896666666665,
+          44.641895
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.574191666666664,
+          44.645855
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.62868,
+          44.63983
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58051666666667,
+          44.632345
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57159166666667,
+          44.645021666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.5755,
+          44.64338333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567238333333336,
+          44.666488333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.568375,
+          44.665245
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.579361666666664,
+          44.641778333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57306666666667,
+          44.64935
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.600728333333336,
+          44.655186666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56733333333333,
+          44.66636666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57669166666667,
+          44.642545
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.567321666666665,
+          44.64264166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57498833333333,
+          44.64371166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57515,
+          44.643908333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59045,
+          44.63713833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58167,
+          44.6419
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59472,
+          44.66471333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58477833333333,
+          44.63767166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.576858333333334,
+          44.641828333333336
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.580875,
+          44.63107
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -63.574295,
           44.644775
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.684421666666665,
+          44.647445
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "3",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57814666666667,
+          44.641511666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584705,
+          44.64091166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58485833333334,
+          44.639246666666665
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "10",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.571178333333336,
+          44.64408666666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57391333333333,
+          44.645471666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56775,
+          44.666145
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58278333333333,
+          44.64002
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.575066666666665,
+          44.64383333333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57882166666667,
+          44.63302
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "12",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57463,
+          44.649625
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57423333333333,
+          44.64500833333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58316333333333,
+          44.67400833333333
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58279666666667,
+          44.63998
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Triangle Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.59178,
+          44.65571666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Wave Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.644775,
+          44.672275
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "6",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57812166666667,
+          44.63207
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "5",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.58041166666667,
+          44.643813333333334
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Ring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.581646666666664,
+          44.63084666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "10",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584295,
+          44.639405
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Wheel Slot Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.56941166666667,
+          44.646125
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "4",
+        "Type": "Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.61123666666667,
+          44.654113333333335
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "2",
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.57837833333333,
+          44.641241666666666
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Type": "Uring"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.584336666666665,
+          44.63764166666667
+        ]
+      },
+      "properties": {
+        "description": null,
+        "Size": "8",
+        "Type": "Ring Corral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -63.577545,
+          44.64290333333334
         ]
       },
       "properties": {
