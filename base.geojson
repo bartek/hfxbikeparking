@@ -2120,6 +2120,7 @@
       },
       "properties": {
         "Type": "Ring Corral",
+        "Size": 3,
         "felt:clipSource": {},
         "felt:color": "#2674BA",
         "felt:hasLongDescription": false,
