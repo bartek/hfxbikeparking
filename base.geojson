@@ -840,28 +840,6 @@
     {
       "geometry": {
         "coordinates": [
-          -63.632312,
-          44.658224
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Type": "Ring",
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "fafcc4ee-c8d9-4c1e-a048-b708f21e624d",
-        "felt:locked": false,
-        "felt:ordering": 1660747689448147,
-        "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -63.627931,
           44.657995
         ],
@@ -877,29 +855,6 @@
         "felt:ordering": 1660747792264425,
         "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
         "felt:symbol": "square",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.632156,
-          44.657411
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Type": "Ring",
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "915fb274-65cf-4dbc-928e-967edb23142c",
-        "felt:locked": false,
-        "felt:ordering": 1660773397232807,
-        "felt:parentId": "863930f6-83d9-428d-86e8-2e95ab5be57c",
-        "felt:radiusDisplayAngle": 90,
-        "felt:symbol": "dot",
         "felt:type": "Place",
         "felt:widthScale": 1
       },
@@ -11131,50 +11086,6 @@
         "felt:parentId": "e4c0e741-7b9d-4d47-a0e1-77a298ac5000",
         "felt:symbol": "dot",
         "felt:type": "Place"
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.632233,
-          44.657555
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Type": "Ring",
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "9ededc95-d035-4fca-9b2b-a35cd7474ec9",
-        "felt:locked": false,
-        "felt:ordering": 1698155805543157,
-        "felt:radiusDisplayAngle": 90,
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          -63.63221,
-          44.657587
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Type": "Ring",
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "0459ec73-cd95-472e-8852-0c050cb54a76",
-        "felt:locked": false,
-        "felt:ordering": 1698155808206370,
-        "felt:radiusDisplayAngle": 90,
-        "felt:symbol": "dot",
-        "felt:type": "Place",
-        "felt:widthScale": 1
       },
       "type": "Feature"
     },
