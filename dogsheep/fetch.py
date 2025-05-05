@@ -119,6 +119,7 @@ def create_feature(row: RowData):
     properties = { 
         "description": row.description if not None else "",
         "filename": filename,
+        "date": row.date,
     }
 
     for kw in keywords:
