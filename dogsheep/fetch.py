@@ -124,7 +124,7 @@ def create_feature(row: RowData):
 
     for kw in keywords:
         if kw.startswith("size"):
-            properties["Size"] = kw.split(":")[1]
+            properties["Size"] = int(kw.split(":")[1])
         if kw.startswith("type"):
             p = kw.split(":")[1]
             properties["Type"] = p.title()
