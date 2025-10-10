@@ -2640,30 +2640,6 @@
     {
       "geometry": {
         "coordinates": [
-          -63.584195,
-          44.638183
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Size": "??",
-        "Type": "Ring Corral",
-        "felt:clipSource": {},
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "acd9d445-3f99-4f28-8c6c-d9a28a9aa6f1",
-        "felt:locked": false,
-        "felt:ordering": 1661179514759256,
-        "felt:parentId": "b9714da5-594b-48ce-aa28-50ca391c1e7e",
-        "felt:symbol": "square",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -63.625587,
           44.65546
         ],
