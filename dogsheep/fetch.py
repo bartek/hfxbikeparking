@@ -4,16 +4,15 @@ import json
 import os
 import sqlite3
 
-# This script queries the Apple Photos database and returns a GeoJSON blob
-# which can be uploaded to Felt (or appropriate source)
+
+
+# This script queries the Apple Photos database and returns a GeoJSON
+# FeatureCollection.
 #
 # First, obtain the photos.db
-# dogsheep-photos apple-photos photos.db
-# Then, adjust the query in line within this script (this can/should be improved in the future)
-# When run, a GeoJSON feature collection will be returned. Pipe this to a file and upload.
-
-# The album name (which is what will house the photos we want to process) is
-# fetched from the environment
+# > dogsheep-photos apple-photos photos.db
+# Then, set the ALBUM environment variable and run the script
+# > ALBUM="hfxbikeparking" python dogsheep/fetch.py > hfxbikeparking.geojson
 album_name = os.environ.get("ALBUM")
 
 RowData = namedtuple('RowData', [
@@ -66,15 +65,29 @@ RowData = namedtuple('RowData', [
     'place_country',
     'place_iso_country_code',
 ])
+
+valid_types = [
+    'Ring',
+    'Corral',
+    'U Ring',
+    'Ring Corral',
+    'Wave Corral',
+    'Wheel Slot Corral',
+    'Triangle Corral',
+    'Hanging Corral',
+    'Ornamental',
+    'Locker',
+]
+
 def query_database(db_file):
+    assert album_name is not None, "ALBUM environment variable must be set."
     try:
-        # Connect to the database
         conn = sqlite3.connect(db_file)
         cursor = conn.cursor()
 
         # Perform the query
-        query = """SELECT * FROM apple_photos WHERE albums = '["{}"]'""".format(album_name)
-        cursor.execute(query)
+        query = "SELECT * FROM apple_photos WHERE albums = ?"
+        cursor.execute(query, (json.dumps([album_name]),))
 
         features = []
 
@@ -91,8 +104,6 @@ def query_database(db_file):
 
         geojson_blob = json.dumps(feature_collection, indent=2)
         print(geojson_blob)
-
-
     except sqlite3.Error as e:
         print("Error while querying the database:", e)
     finally:
@@ -103,31 +114,32 @@ def query_database(db_file):
 def create_feature(row: RowData): 
     keywords = ast.literal_eval(row.keywords)
 
-    # Only concerned with photos which are tagged for bike parking. These are
-    # any with a type: prefix on a keyword
-    x = True
+    # Photos without a type: are likely untagged and should be resolved.
+    hasType = False
     for kw in keywords:
         if kw.startswith("type:"):
-            x = False
-    if x:
-        return None
+            hasType = True
+            break
+    assert hasType, f"Photo on {row.date} does not have a type: keyword."
 
     # Files are assumed to be exported to jpeg for the purposes of delivery and
     # otherwise the original name is retained.
-    filename = row.original_filename.split(".")[0] + ".jpeg"
+    filename = row.original_filename.rsplit(".")[0] + ".jpeg"
 
     properties = { 
-        "description": row.description if not None else "",
+        "description": row.description or "",
         "filename": filename,
         "date": row.date,
     }
 
+    # Currently tagging size and type
     for kw in keywords:
         if kw.startswith("size"):
             properties["Size"] = int(kw.split(":")[1])
         if kw.startswith("type"):
             p = kw.split(":")[1]
             properties["Type"] = p.title()
+            assert p.title() in valid_types, f"Photo on {row.date} has invalid type: {p}"
 
 
     # Map the various keywords to the appropriate properties.
