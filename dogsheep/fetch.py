@@ -81,20 +81,19 @@ valid_types = [
 
 def query_database(db_file):
     assert album_name is not None, "ALBUM environment variable must be set."
-    try:
-        conn = sqlite3.connect(db_file)
+
+    with sqlite3.connect(db_file) as conn:
+        conn.row_factory = sqlite3.Row
         cursor = conn.cursor()
 
-        # Perform the query
         query = "SELECT * FROM apple_photos WHERE albums = ?"
         cursor.execute(query, (json.dumps([album_name]),))
 
         features = []
 
-        rows = cursor.fetchall()
-        for row in rows:
+        for row in cursor.fetchall():
             f = create_feature(RowData(*row))
-            if f is not None:
+            if f:
                 features.append(f)
 
         feature_collection = {
@@ -104,12 +103,6 @@ def query_database(db_file):
 
         geojson_blob = json.dumps(feature_collection, indent=2)
         print(geojson_blob)
-    except sqlite3.Error as e:
-        print("Error while querying the database:", e)
-    finally:
-        # Close the connection
-        if conn:
-            conn.close()
 
 def create_feature(row: RowData): 
     keywords = ast.literal_eval(row.keywords)
