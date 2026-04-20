@@ -1,0 +1,130 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "South Park St Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5797162975209, 44.6419391402375] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Hollis St Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5733036696911, 44.648369263207] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "South Park St Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5797162975209, 44.6419391402375] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Vernon St Eastside [Parking] Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5915507376194, 44.6430231606773] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Vernon St Eastside [Parking] Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5915507376194, 44.6430231606773] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Windsor St Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6038567125797, 44.6546822393356] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Windsor St Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6038567125797, 44.6546822393356] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Harbourfront Greenway Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.55736, 44.66436] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Harbourfront Greenway Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.55736, 44.66436] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Rainnie/Gottingen Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5792045295238, 44.6489619985601] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Rainnie/Gottingen Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5792045295238, 44.6489619985601] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Lower Water Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5697993636131, 44.6443065373869] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Lower Water Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5697993636131, 44.6443065373869] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Barrington Greenway Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5875555872917, 44.6588978218134] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Barrington Greenway Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.5875555872917, 44.6588978218134] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Chain of Lakes Trail Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6309634521604, 44.6503480453941] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Chain of Lakes Trail Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6309634521604, 44.6503480453941] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Macdonald Bridge Bikeway Cyclist Inbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.57815, 44.67003] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Macdonald Bridge Bikeway Cyclist Outbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.57815, 44.67003] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Vernon St Westside [No parking] Cyclist IN" },
+      "geometry": { "type": "Point", "coordinates": [-63.5916647315025, 44.6429926264618] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Vernon St Westside [No parking] Cyclist OUT" },
+      "geometry": { "type": "Point", "coordinates": [-63.5916647315025, 44.6429926264618] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Almon St Westbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6005197, 44.6560699] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Almon St Eastbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.6005197, 44.6560699] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Dutch Village Rd Cyclist Westbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.63068014, 44.6537027] }
+    },
+    {
+      "type": "Feature",
+      "properties": { "CHANNEL_NAME": "Dutch Village Rd Cyclist Eastbound" },
+      "geometry": { "type": "Point", "coordinates": [-63.63068014, 44.6537027] }
+    }
+  ]
+}
