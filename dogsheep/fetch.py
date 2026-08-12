@@ -77,6 +77,7 @@ valid_types = [
     'Hanging Corral',
     'Ornamental',
     'Locker',
+    'Repair',
 ]
 
 def query_database(db_file):

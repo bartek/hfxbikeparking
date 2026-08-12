@@ -1110,30 +1110,6 @@
     {
       "geometry": {
         "coordinates": [
-          -63.599903,
-          44.65678
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "Needs Attention": true,
-        "Size": 2,
-        "Type": "Wave Corral",
-        "felt:color": "#2674BA",
-        "felt:hasLongDescription": false,
-        "felt:id": "6d0acd5b-4b9c-4e4f-a476-d246d9753d84",
-        "felt:locked": false,
-        "felt:ordering": 1660858420023080,
-        "felt:parentId": "e4bcfac1-194e-4bed-bcf7-965583f04df7",
-        "felt:symbol": "square",
-        "felt:type": "Place",
-        "felt:widthScale": 1
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           -63.592863,
           44.655309
         ],
